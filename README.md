@@ -7,3 +7,5 @@ I'm currently working on the Odin Project's 101 Course on Web Development.
 Here's a link:
 
 From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
+
+https://manuelbocchia.github.io/google-homepage/
